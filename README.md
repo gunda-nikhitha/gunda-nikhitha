@@ -45,4 +45,4 @@ Building a personal web app · Deepening full-stack skills with real projects
 
 ·Email - nikhitha2129@gmail.com
 
-Open to freelance gigs, remote internships, and interesting open source problems. Don't be a stranger.
+Open to freelance gigs, remote internships, and interesting open source problems.
